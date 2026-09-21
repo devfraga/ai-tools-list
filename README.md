@@ -178,6 +178,7 @@ Projetos, serviços e plataformas do ecossistema de agentes de IA — organizado
 | [Stable Diffusion](https://stability.ai) | Open-source. Ecossistema ControlNet, LoRAs e ComfyUI. | Grátis (OSS) |
 | [Adobe Firefly](https://firefly.adobe.com) | Treinado com dados licenciados. Integrado ao Photoshop. | Adobe CC |
 | [Google Imagen](https://deepmind.google) | Fotorrealismo de ponta. API via AI Studio. | API |
+- [MagicKit](https://magickit.47.80.8.174.nip.io) - Free AI toolbox (FLUX image, text, video). No sign-up. MIT. [Source](https://github.com/kaketiti/magickit)
 | [Ideogram](https://ideogram.ai) | Melhor para texto dentro da imagem. Logos e pôsteres. | Grátis / pago |
 | [Leonardo AI](https://leonardo.ai) | Multimodelo. Canvas em tempo real. Assets 3D para jogos. | Grátis / pago |
 
