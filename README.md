@@ -62,6 +62,7 @@ Projetos, serviços e plataformas do ecossistema de agentes de IA — organizado
 | [Aider](https://github.com/paul-gauthier/aider) | Par de programação OSS. Integrado ao Git. Qualquer LLM. | Grátis + API |
 | [Cline](https://github.com/cline/cline) | Extensão do VS Code. Acesso total a terminal e navegador. | Grátis + API |
 | [OpenCode](https://github.com/opencode-ai/opencode) | Agente de terminal BYOK. | Grátis + API |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Grava uma execução de agente abaixo do harness (tráfego do modelo, códigos de saída do shell, alterações de arquivos por turno, chamadas MCP em uma linha do tempo) e a reproduz offline sem chamar o modelo, ou bifurca de qualquer checkpoint para outro modelo. Funciona com Claude Code, Codex, opencode, Qwen Code e Cursor. Apache-2.0. | Grátis |
 
 ### Revisão de código e segurança
 
