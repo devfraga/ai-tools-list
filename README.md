@@ -368,6 +368,7 @@ Projetos, serviços e plataformas do ecossistema de agentes de IA — organizado
 | [Tavily](https://tavily.com) | API de busca na web pensada para agentes e RAG. |
 | [Exa](https://exa.ai) | Busca semântica na web voltada para IA. |
 | [Apify](https://apify.com) | Plataforma de scraping e automação web, com atores e integração MCP. |
+| [Agent QA](https://github.com/vostride/agent-qa) | Testes de regressão web e mobile em linguagem natural, com memória de execução, CLI e servidor MCP. Código disponível sob FSL-1.1-ALv2. |
 
 ---
 

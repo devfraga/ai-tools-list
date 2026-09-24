@@ -371,6 +371,7 @@ How agents reach the world: connectors for apps, web search, scraping, and thous
 | [Tavily](https://tavily.com) | Web search API designed for agents and RAG. |
 | [Exa](https://exa.ai) | AI-focused semantic web search. |
 | [Apify](https://apify.com) | Web scraping and automation platform, with actors and MCP integration. |
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile regression testing with run memory, a CLI, and an MCP server. Source-available under FSL-1.1-ALv2. |
 
 ---
 
