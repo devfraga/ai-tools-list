@@ -225,6 +225,7 @@ Projetos, serviços e plataformas do ecossistema de agentes de IA — organizado
 | [Make](https://make.com) | Plataforma visual de workflows com recursos de IA. | Grátis / pago |
 | [Activepieces](https://github.com/activepieces/activepieces) | Alternativa OSS ao Zapier, com IA. | Grátis (OSS) |
 | [Temporal](https://github.com/temporalio/temporal) | Execução durável para workflows de agentes de longa duração. | Grátis / nuvem |
+| [Oh My Hermes](https://github.com/rlaope/oh-my-hermes) | Plugin de workflows para Hermes Agent. Memória de projeto revisada, modelos por tarefa e skills de pesquisa, planejamento e revisão de código. Requer Hermes Agent. | Grátis (OSS); custos de modelos à parte |
 
 ### Construtores no-code de agentes
 
