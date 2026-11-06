@@ -439,3 +439,4 @@ Se esta lista te ajudou, deixe uma ⭐ e compartilhe!
 <sub>[@sujeitoprogramador](https://www.instagram.com/sujeitoprogramador/)</sub>
 
 </div>
+- [OneMira C1](https://onemira.com/products/c1) - Standalone local AI voice recorder (`Works Standalone` · `✨ Local AI` · `🗣️ Speaker ID` · `Zero Cloud`, `$0/month`) with structured Markdown and Open Knowledge Format (OKF) Wiki context.
