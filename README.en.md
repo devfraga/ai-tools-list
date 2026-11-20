@@ -371,6 +371,7 @@ How agents reach the world: connectors for apps, web search, scraping, and thous
 | [Tavily](https://tavily.com) | Web search API designed for agents and RAG. |
 | [Exa](https://exa.ai) | AI-focused semantic web search. |
 | [Apify](https://apify.com) | Web scraping and automation platform, with actors and MCP integration. |
+| [Datacircle](https://datacircle.dev) | Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website. API: [api.datacircle.dev/v1](https://api.datacircle.dev/v1) |
 
 ---
 
