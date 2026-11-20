@@ -368,6 +368,7 @@ Projetos, serviços e plataformas do ecossistema de agentes de IA — organizado
 | [Tavily](https://tavily.com) | API de busca na web pensada para agentes e RAG. |
 | [Exa](https://exa.ai) | Busca semântica na web voltada para IA. |
 | [Apify](https://apify.com) | Plataforma de scraping e automação web, com atores e integração MCP. |
+| [Datacircle](https://datacircle.dev) | Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website. API: [api.datacircle.dev/v1](https://api.datacircle.dev/v1) |
 
 ---
 
