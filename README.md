@@ -180,6 +180,7 @@ Projetos, serviços e plataformas do ecossistema de agentes de IA — organizado
 | [Google Imagen](https://deepmind.google) | Fotorrealismo de ponta. API via AI Studio. | API |
 | [Ideogram](https://ideogram.ai) | Melhor para texto dentro da imagem. Logos e pôsteres. | Grátis / pago |
 | [Leonardo AI](https://leonardo.ai) | Multimodelo. Canvas em tempo real. Assets 3D para jogos. | Grátis / pago |
+| [Kavel](https://www.kavel.ai/) | Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card. | Gratuito |
 
 ### Geração de vídeo
 
