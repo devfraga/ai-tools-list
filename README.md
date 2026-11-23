@@ -170,6 +170,7 @@ Projetos, serviços e plataformas do ecossistema de agentes de IA — organizado
 
 | Ferramenta | Descrição | Preço |
 |------------|-----------|-------|
+| [Free Image to Video](https://freeimagetovideo.ai/) | Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. | Freemium |
 | [Fal.AI](https://fal.ai/) | Ferramenta com vários modelos para geração de imagem / video | Pago |
 | [Runware](https://runware.ai/) | Ferramenta com vários modelos para geração de imagem / video | Pago |
 | [Midjourney](https://midjourney.com) | Alta qualidade artística. Estética diferenciada. Discord + web. | Pago |
